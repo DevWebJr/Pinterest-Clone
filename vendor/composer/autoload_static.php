@@ -582,6 +582,7 @@ class ComposerStaticInitb936178adbabf8d732ca119f79aa28cc
 
     public static $classMap = array (
         'App\\Controller\\PagesController' => __DIR__ . '/../..' . '/src/Controller/PagesController.php',
+        'App\\Controller\\PinsController' => __DIR__ . '/../..' . '/src/Controller/PinsController.php',
         'App\\Entity\\Pin' => __DIR__ . '/../..' . '/src/Entity/Pin.php',
         'App\\Kernel' => __DIR__ . '/../..' . '/src/Kernel.php',
         'App\\Repository\\PinRepository' => __DIR__ . '/../..' . '/src/Repository/PinRepository.php',

@@ -8552,18 +8552,5 @@
             "install-path": "../webmozart/assert"
         }
     ],
-    "dev": true,
-    "dev-package-names": [
-        "dnoegel/php-xdg-base-dir",
-        "nikic/php-parser",
-        "psy/psysh",
-        "symfony/browser-kit",
-        "symfony/css-selector",
-        "symfony/debug-bundle",
-        "symfony/dom-crawler",
-        "symfony/maker-bundle",
-        "symfony/phpunit-bridge",
-        "symfony/web-profiler-bundle",
-        "theofidry/psysh-bundle"
-    ]
+    "dev": true
 }

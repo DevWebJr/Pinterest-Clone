@@ -1,0 +1,14 @@
+{% extends "layouts/base.html.twig" %}
+
+{% block body %}
+
+    <h1>{{pluralize(pins|length) 'Pin', 'Pins'}}</h1>
+
+        {% for pin in pins %}
+            <div>
+                <h2>{{pin.title}}</h2>
+                <p>{{pin.description}}</p>
+            </div>
+        {% endfor %}
+
+{% endblock %}

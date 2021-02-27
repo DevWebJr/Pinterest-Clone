@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'App\\Controller\\PagesController' => $baseDir . '/src/Controller/PagesController.php',
+    'App\\Controller\\PinsController' => $baseDir . '/src/Controller/PinsController.php',
     'App\\Entity\\Pin' => $baseDir . '/src/Entity/Pin.php',
     'App\\Kernel' => $baseDir . '/src/Kernel.php',
     'App\\Repository\\PinRepository' => $baseDir . '/src/Repository/PinRepository.php',

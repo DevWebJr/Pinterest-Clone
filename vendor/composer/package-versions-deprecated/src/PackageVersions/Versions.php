@@ -137,10 +137,10 @@ final class Versions
   'symfony/phpunit-bridge' => 'v5.2.3@587f2b6bbcda8c473b91c18165958ffbb8af3c4c',
   'symfony/web-profiler-bundle' => 'v5.2.3@4b28c24db64156ad892300be7fae1978bed075ce',
   'theofidry/psysh-bundle' => '4.3.0@2dc44466d2a1ddb900a1596983750c15fe56328c',
-  'symfony/polyfill-ctype' => '*@7eb59c7dfaef8e6330a04d5f20ca0614856c6011',
-  'symfony/polyfill-iconv' => '*@7eb59c7dfaef8e6330a04d5f20ca0614856c6011',
-  'symfony/polyfill-php72' => '*@7eb59c7dfaef8e6330a04d5f20ca0614856c6011',
-  '__root__' => 'dev-master@7eb59c7dfaef8e6330a04d5f20ca0614856c6011',
+  'symfony/polyfill-ctype' => '*@71cdf4c3b0acdb4840ea3df46ae3f8aefce339a4',
+  'symfony/polyfill-iconv' => '*@71cdf4c3b0acdb4840ea3df46ae3f8aefce339a4',
+  'symfony/polyfill-php72' => '*@71cdf4c3b0acdb4840ea3df46ae3f8aefce339a4',
+  '__root__' => 'dev-master@71cdf4c3b0acdb4840ea3df46ae3f8aefce339a4',
 );
 
     private function __construct()
